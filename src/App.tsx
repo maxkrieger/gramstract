@@ -198,8 +198,12 @@ function App() {
           <button onClick={onRequestMore}>
             {loadState === "loading more" ? "loading..." : "more"}
           </button>
-          <h5>fork on GitHub</h5>
-          <h5>please support open access however you see fit</h5>
+          <h5>
+            <a href="https://github.com/maxkrieger/gramstract">
+              fork on GitHub
+            </a>
+            . please support open access however you see fit
+          </h5>
         </div>
       </div>
     </div>
