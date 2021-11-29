@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gramstract/static/css/main.fad4d066.chunk.css",
+    "main.js": "/gramstract/static/js/main.883a2d2c.chunk.js",
+    "main.js.map": "/gramstract/static/js/main.883a2d2c.chunk.js.map",
+    "runtime-main.js": "/gramstract/static/js/runtime-main.bbcf6816.js",
+    "runtime-main.js.map": "/gramstract/static/js/runtime-main.bbcf6816.js.map",
+    "static/js/2.dbbf1088.chunk.js": "/gramstract/static/js/2.dbbf1088.chunk.js",
+    "static/js/2.dbbf1088.chunk.js.map": "/gramstract/static/js/2.dbbf1088.chunk.js.map",
+    "static/js/3.0d463faf.chunk.js": "/gramstract/static/js/3.0d463faf.chunk.js",
+    "static/js/3.0d463faf.chunk.js.map": "/gramstract/static/js/3.0d463faf.chunk.js.map",
+    "index.html": "/gramstract/index.html",
+    "static/css/main.fad4d066.chunk.css.map": "/gramstract/static/css/main.fad4d066.chunk.css.map",
+    "static/js/2.dbbf1088.chunk.js.LICENSE.txt": "/gramstract/static/js/2.dbbf1088.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbcf6816.js",
+    "static/js/2.dbbf1088.chunk.js",
+    "static/css/main.fad4d066.chunk.css",
+    "static/js/main.883a2d2c.chunk.js"
+  ]
+}
