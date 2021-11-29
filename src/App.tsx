@@ -202,7 +202,7 @@ function App() {
             <a href="https://github.com/maxkrieger/gramstract">
               fork on GitHub
             </a>
-            . please support open access however you see fit
+            . this is unofficial. please support open access however you see fit
           </h5>
         </div>
       </div>
