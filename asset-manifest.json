@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gramstract/static/css/main.fad4d066.chunk.css",
-    "main.js": "/gramstract/static/js/main.883a2d2c.chunk.js",
-    "main.js.map": "/gramstract/static/js/main.883a2d2c.chunk.js.map",
+    "main.js": "/gramstract/static/js/main.99a10b71.chunk.js",
+    "main.js.map": "/gramstract/static/js/main.99a10b71.chunk.js.map",
     "runtime-main.js": "/gramstract/static/js/runtime-main.bbcf6816.js",
     "runtime-main.js.map": "/gramstract/static/js/runtime-main.bbcf6816.js.map",
     "static/js/2.dbbf1088.chunk.js": "/gramstract/static/js/2.dbbf1088.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bbcf6816.js",
     "static/js/2.dbbf1088.chunk.js",
     "static/css/main.fad4d066.chunk.css",
-    "static/js/main.883a2d2c.chunk.js"
+    "static/js/main.99a10b71.chunk.js"
   ]
 }
