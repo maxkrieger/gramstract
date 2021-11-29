@@ -1,5 +1,7 @@
 # Cell Graphical Abstracts Browser
 
+**If this ever breaks, see the `getImageURL` function in `App.tsx`. I'm hotlinking Elsevier's CDN LOL.**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
